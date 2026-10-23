@@ -1,4 +1,4 @@
-# dsa-journey
+# back-to-dsa
 
 Relearning data structures & algorithms from the basics, in Java, one problem at a time.
 
